@@ -1,6 +1,6 @@
-# Skyline Customs Business Dashboard
+# Skyline Customs App
 
-Enhanced business intelligence dashboard for Skyline Customs automotive services.
+Complete business intelligence app for Skyline Customs automotive services.
 
 ## Features
 - 📊 Time period filtering (Daily, 7 Days, Week, Month, Quarter, All Time)

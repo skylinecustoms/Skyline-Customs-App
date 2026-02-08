@@ -336,7 +336,7 @@ export default function SkylineDashboard() {
             borderTop: '1px solid rgba(255,255,255,0.2)',
             marginTop: '20px'
           }}>
-            Last updated: {new Date().toLocaleDateString('en-US', { 
+            🚀 Auto-deployed from GitHub | Last updated: {new Date().toLocaleDateString('en-US', { 
               month: 'short', 
               day: 'numeric', 
               hour: '2-digit', 
